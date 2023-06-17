@@ -1,0 +1,19 @@
+[debug] Packaging C:\Users\jeank\OneDrive\Bureau\semestre2\MAP_REDUCE\tp_hadoop\target\scala-2.12\tp_hadoop_2.12-0.1.0-SNAPSHOT.jar ...
+[debug] Input file mappings:
+[debug] 	Jobs
+[debug] 	  C:\Users\jeank\OneDrive\Bureau\semestre2\MAP_REDUCE\tp_hadoop\target\scala-2.12\classes\Jobs
+[debug] 	Jobs\Cas.class
+[debug] 	  C:\Users\jeank\OneDrive\Bureau\semestre2\MAP_REDUCE\tp_hadoop\target\scala-2.12\classes\Jobs\Cas.class
+[debug] 	Jobs\package$.class
+[debug] 	  C:\Users\jeank\OneDrive\Bureau\semestre2\MAP_REDUCE\tp_hadoop\target\scala-2.12\classes\Jobs\package$.class
+[debug] 	Jobs\package.class
+[debug] 	  C:\Users\jeank\OneDrive\Bureau\semestre2\MAP_REDUCE\tp_hadoop\target\scala-2.12\classes\Jobs\package.class
+[debug] 	Jobs\Test$$typecreator6$1.class
+[debug] 	  C:\Users\jeank\OneDrive\Bureau\semestre2\MAP_REDUCE\tp_hadoop\target\scala-2.12\classes\Jobs\Test$$typecreator6$1.class
+[debug] 	Jobs\Test$.class
+[debug] 	  C:\Users\jeank\OneDrive\Bureau\semestre2\MAP_REDUCE\tp_hadoop\target\scala-2.12\classes\Jobs\Test$.class
+[debug] 	Jobs\Test$delayedInit$body.class
+[debug] 	  C:\Users\jeank\OneDrive\Bureau\semestre2\MAP_REDUCE\tp_hadoop\target\scala-2.12\classes\Jobs\Test$delayedInit$body.class
+[debug] 	Jobs\Test.class
+[debug] 	  C:\Users\jeank\OneDrive\Bureau\semestre2\MAP_REDUCE\tp_hadoop\target\scala-2.12\classes\Jobs\Test.class
+[debug] Done packaging.
